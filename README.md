@@ -47,3 +47,15 @@ Fully complete with some artistic liberties in terms of bridges and highways
 
 Wilmington, NC summer 2018 Cities Skylines exact no vegetation available upon request
 
+New Bern, NC in Cities Skylines
+
+![](https://github.com/bobbybudnick/SFS-Cities/blob/main/NEWBERN_CS.png)
+
+New Bern, NC in Simcity 3000
+
+![](https://github.com/bobbybudnick/SFS-Cities/blob/main/NEWBERN_3000.png)
+
+Aggrocrag in Simcity 4
+
+![](https://github.com/bobbybudnick/SFS-Cities/blob/main/AGGROCRAG_4.png)
+
